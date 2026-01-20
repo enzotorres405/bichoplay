@@ -6,7 +6,8 @@
     "sdkVersion": "48.0.0",
     "platforms": ["android"],
     "android": {
-      "package": "com.seunome.bichoplay"
+      "package": "com.enzotorres.bichoplay"
     }
   }
 }
+
