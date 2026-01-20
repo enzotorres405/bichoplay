@@ -1,0 +1,7 @@
+{
+  "expo": {
+    "name": "BichoPlay",
+    "slug": "bichoplay",
+    "orientation": "portrait"
+  }
+}
